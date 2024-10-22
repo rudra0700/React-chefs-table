@@ -2,8 +2,10 @@
 
 const Banner = () => {
     return (
-        <div>
-           <h3>banner</h3> 
+        <div >
+           <div className="bg-hero-pattern p-10 bg-no-repeat bg-center h-[80vh] bg-contain mt-12">
+             {/* <h1 className="text-white text-4xl">Discover an exceptional cooking class tailored for you!</h1> */}
+           </div>
         </div>
     );
 };
