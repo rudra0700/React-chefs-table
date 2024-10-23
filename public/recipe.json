@@ -1,0 +1,108 @@
+[
+    {
+      "recipe_id": 1,
+      "recipe_title": "Chicken Basil Stir-Fry",
+      "recipe_img": "https://i.ibb.co.com/KcnHJRy/food1.png",
+      "short_description": "A delicious and healthy chicken stir-fry with fresh vegetables and basil.",
+      "ingredients": [
+        "550 gm chicken breast",
+        "120 ml soya sauce",
+        "200 g basil leaves",
+        "400 g mushroom",
+        "2 cloves garlic, minced",
+        "1 red bell pepper, sliced",
+        "1 green bell pepper, sliced",
+        "1 onion, sliced"
+      ],
+      "preparing_time": 20,
+      "calories": 450
+    },
+    {
+      "recipe_id": 2,
+      "recipe_title": "Creamy Garlic Spinach Pasta",
+      "recipe_img": "https://i.ibb.co.com/KcnHJRy/food1.png",
+      "short_description": "Creamy pasta with rich flavors of garlic, spinach, and Parmesan cheese.",
+      "ingredients": [
+        "300 g pasta",
+        "200 ml heavy cream",
+        "3 cloves garlic, minced",
+        "100 g spinach",
+        "100 g Parmesan cheese, grated",
+        "1 tbsp olive oil",
+        "Salt and pepper to taste"
+      ],
+      "preparing_time": 20,
+      "calories": 600
+    },
+    {
+      "recipe_id": 3,
+      "recipe_title": "Avocado Toast with Poached Egg",
+      "recipe_img": "https://i.ibb.co.com/KcnHJRy/food1.png",
+      "short_description": "A quick and easy avocado toast with a poached egg for a healthy breakfast.",
+      "ingredients": [
+        "2 slices whole grain bread",
+        "1 ripe avocado",
+        "1 poached egg",
+        "1 tbsp lemon juice",
+        "Salt and pepper to taste",
+        "1 tbsp olive oil",
+        "Chili flakes (optional)"
+      ],
+      "preparing_time": 20,
+      "calories": 350
+    },
+    {
+      "recipe_id": 4,
+      "recipe_title": "Grilled Shrimp with Cilantro Lime Rice",
+      "recipe_img": "https://i.ibb.co.com/KcnHJRy/food1.png",
+      "short_description": "Spicy and tangy grilled shrimp served with a side of cilantro lime rice.",
+      "ingredients": [
+        "500 g shrimp, peeled and deveined",
+        "2 tbsp chili powder",
+        "1 lime, juiced",
+        "3 cloves garlic, minced",
+        "2 tbsp olive oil",
+        "100 g cilantro, chopped",
+        "1 cup basmati rice"
+      ],
+      "preparing_time": 20,
+      "calories": 500
+    },
+    {
+      "recipe_id": 5,
+      "recipe_title": "Watermelon Feta Salad",
+      "recipe_img": "https://i.ibb.co.com/KcnHJRy/food1.png",
+      "short_description": "Refreshing summer salad with watermelon, feta, and mint.",
+      "ingredients": [
+        "500 g watermelon, cubed",
+        "150 g feta cheese, crumbled",
+        "50 g fresh mint leaves",
+        "1 cucumber, sliced",
+        "2 tbsp olive oil",
+        "1 tbsp balsamic vinegar",
+        "Salt and pepper to taste"
+      ],
+      "preparing_time": 15,
+      "calories": 200
+    },
+    {
+      "recipe_id": 6,
+      "recipe_title": "Classic Beef Tacos",
+      "recipe_img": "https://i.ibb.co.com/KcnHJRy/food1.png",
+      "short_description": "Classic beef tacos with a blend of spices, served with fresh salsa and guacamole.",
+      "ingredients": [
+        "500 g ground beef",
+        "1 packet taco seasoning",
+        "8 taco shells",
+        "100 g cheddar cheese, grated",
+        "1 tomato, diced",
+        "1 onion, diced",
+        "2 tbsp sour cream",
+        "Fresh cilantro for garnish"
+      ],
+      "preparing_time": 20,
+      "calories": 550
+    }
+  ]
+  
+  
