@@ -18,7 +18,7 @@ const Header = () => {
                 <div>
                     <div className="flex gap-4 items-center">
                         < input type="text" placeholder="search" className="p-2 outline-none border border-gray-300"/>
-                        <i className="fa-solid fa-user p-2 rounded-full bg-green-500"></i>
+                        <i className="fa-solid fa-user p-2 rounded-full bg-green-500 text-white"></i>
                     </div>
                 </div>
             </div>

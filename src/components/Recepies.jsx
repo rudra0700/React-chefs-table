@@ -2,7 +2,7 @@ import { useEffect } from "react";
 import { useState } from "react";
 
 
-const Recepies = () => {
+const Recepies = ({handleRecepies}) => {
     const [recepies, setRecepies] = useState([]);
 
     useEffect(() =>{
@@ -16,7 +16,7 @@ const Recepies = () => {
             {
                 recepies.map(recepie => {
                     return(
-                        <div className="card shadow-xl" key={recepie.recipe_id}>
+                        <div className="card shadow-xl border-2" key={recepie.recipe_id}>
                         <figure>
                           <img
                             src={recepie.recipe_img}
@@ -41,8 +41,8 @@ const Recepies = () => {
                                 <p className="font-semibold">{recepie.calories} calories</p>
                             </div>
                           </div>
-                          <div className="card-actions justify-end">
-                            <button className="btn btn-primary">Buy Now</button>
+                          <div className="card-actions ">
+                            <button onClick={() => handleRecepies(recepie)} className="btn rounded-full bg-green-500 text-white">Want to cook</button>
                           </div>
                         </div>
                       </div>  
